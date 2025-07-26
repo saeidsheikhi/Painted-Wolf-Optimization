@@ -8,7 +8,7 @@ This repository contains the official Python and MATLAB source code for the Pain
 
 ## Citation
 
-If you use the PWO algorithm or code in your research, please cite our paper. (You can add your full citation here once it's published).
+If you use the PWO algorithm or code in your research, please cite our paper.
 
 ```bibtex
 @article{Saeid_2025_pwo,

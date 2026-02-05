@@ -13,9 +13,9 @@ If you use the PWO algorithm or code in your research, please cite our paper.
 ```bibtex
 @article{Saeid_2025_pwo,
   title={Painted Wolf Optimization: A Novel Nature-Inspired Metaheuristic Algorithm for Real-World Optimization Problems},
-  author={Your Name, Co-author Name, ...},
-  journal={Journal Name},
-  year={Year},
+  author={Saeid Sheikhi},
+  journal={Computers, Materials \& Continua},
+  year={2026},
   volume={Volume},
   pages={Pages}
 }

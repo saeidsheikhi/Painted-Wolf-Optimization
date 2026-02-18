@@ -11,14 +11,18 @@ This repository contains the official Python and MATLAB source code for the Pain
 If you use the PWO algorithm or code in your research, please cite our paper.
 
 ```bibtex
-@article{Saeid_2025_pwo,
-  title={Painted Wolf Optimization: A Novel Nature-Inspired Metaheuristic Algorithm for Real-World Optimization Problems},
-  author={Saeid Sheikhi},
-  journal={Computers, Materials \& Continua},
-  year={2026},
-  volume={Volume},
-  pages={Pages}
+@Article{Saeid_2026_pwo,
+AUTHOR = {Saeid Sheikhi},
+TITLE = {Painted Wolf Optimization: A Novel Nature-Inspired Metaheuristic Algorithm for Real-World Optimization Problems},
+JOURNAL = {Computers, Materials \& Continua},
+VOLUME = {},
+YEAR = {},
+NUMBER = {},
+PAGES = {{pages}},
+ISSN = {1546-2226},
+DOI = {10.32604/cmc.2026.077788}
 }
+
 ```
 
 ## Features

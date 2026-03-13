@@ -15,10 +15,10 @@ If you use the PWO algorithm or code in your research, please cite our paper.
 AUTHOR = {Saeid Sheikhi},
 TITLE = {Painted Wolf Optimization: A Novel Nature-Inspired Metaheuristic Algorithm for Real-World Optimization Problems},
 JOURNAL = {Computers, Materials \& Continua},
-VOLUME = {},
+VOLUME = {87},
 YEAR = {2026},
-NUMBER = {},
-PAGES = {{pages}},
+NUMBER = {2},
+PAGES = {--},
 ISSN = {1546-2226},
 DOI = {10.32604/cmc.2026.077788}
 }
